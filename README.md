@@ -16,4 +16,6 @@ This Java program demonstrates how to **connect to a MySQL database**,
 
 ---
 
+## 📸 Sample Output
+![Program Output](db.png)
 
